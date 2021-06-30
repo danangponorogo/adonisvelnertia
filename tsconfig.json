@@ -10,7 +10,7 @@
   "compilerOptions": {
     "outDir": "build",
     "rootDir": "./",
-    "sourceMap": false,
+    "sourceMap": true,
     "strict": true,
     "paths": {
       "App/*": [

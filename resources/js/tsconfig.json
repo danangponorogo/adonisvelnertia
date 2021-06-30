@@ -1,0 +1,16 @@
+{
+    "include": [
+        "**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "build"
+    ],
+    "compilerOptions": {
+        "lib": [
+            "DOM"
+        ],
+        "jsx": "react",
+        "esModuleInterop": true
+    }
+}
